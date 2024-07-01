@@ -1,6 +1,6 @@
 # Langchain Rag ChatBot
 
-This project implements a chatbot using Langchain, Pinecone, and OpenAI APIs.
+This script creates a Streamlit chatbot using PDF documents. It loads, splits, and embeds PDFs with OpenAI's embeddings into Pinecone. The app handles user queries, displaying responses interactively. It's designed for efficient Q&A despite hardware limits on running local models.
 
 ## Getting Started
 
